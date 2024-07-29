@@ -1,0 +1,6 @@
+.heading {
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+  gap: 20px;
+}
