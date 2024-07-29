@@ -1,1 +1,1 @@
-# Calculator using REACT+VITE
+# Calculator using REACT
